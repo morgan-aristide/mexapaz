@@ -1,0 +1,12 @@
+.btn {
+	background-color: #E66902;
+	color: lightgrey;
+	padding: 5px;
+	border-radius: 5%;
+	opacity: 0.8;
+}
+
+.btn:hover {
+	background-color: lightgrey;
+	color: #CB732B ;
+}
